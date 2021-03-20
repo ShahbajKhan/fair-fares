@@ -1,0 +1,26 @@
+[
+  {
+    "rideNumber": 1,
+    "name": "Helicopter",
+    "passengers": 3,
+    "picture": "https://www.emra.org/globalassets/emresident/images/articles/2018/04/45-2_helicopter-ems.jpg?w=600"
+  },
+  {
+    "rideNumber": 2,
+    "name": "MaxiTaxi",
+    "passengers": 4,
+    "picture": "https://pngimage.net/wp-content/uploads/2018/06/taxi-vector-png-5.png"
+  },
+  {
+    "rideNumber": 3,
+    "name": "Cruise-ship",
+    "passengers": 100,
+    "picture": "https://www.cruisemapper.com/images/ships/2083-f3abe9d8e45.jpg"
+  },
+  {
+    "rideNumber": 4,
+    "name": "Bullet-train",
+    "passengers": 450,
+    "picture": "https://www.nbmcw.com/images/Transportation-Tunneling/35067-Bullet-Train-India.jpg"
+  }
+]

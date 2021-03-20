@@ -1,0 +1,13 @@
+.timeline-area{
+    border-left: 2px solid white;
+}
+.timeline-area::before{
+    content: '';
+    display: block;
+    border-radius: 50%;
+    background-color: white;
+    border: 3px solid white;
+    position: absolute;
+    top: 10px;
+    left: -40px;
+}
