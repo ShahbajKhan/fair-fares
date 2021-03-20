@@ -1,9 +1,9 @@
 # Fair Fares 
 ## React Router Assignment With Firebase Authentication
 
-[Github repo](https://github.com/Porgramming-Hero-web-course/react-router-ShahbajKhan).
+[Github repo](https://github.com/Porgramming-Hero-web-course/react-auth-ShahbajKhan).
 
-[Live link](https://thirsty-leavitt-370a22.netlify.app/)
+[Live link](https://quizzical-poincare-2ddd78.netlify.app/)
 
 ## Available Features
 1) User can login with facebook and google since the app has firebase authentication. 
