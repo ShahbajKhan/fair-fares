@@ -10,7 +10,7 @@
 
 2) User can sign up and log in with email and password. 
 
-3) App has private route
+3) App has private route and google map.
 
 4) App uses firebase auth redirect
 
