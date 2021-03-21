@@ -38,7 +38,7 @@ const Header = () => {
                     <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
                         <div className="navbar-nav">
                             <Link to="/home" className="nav-link">Home</Link>
-                            <Link to="/home" className="nav-link">Destination</Link>
+                            <Link to="/Helicopter/destination" className="nav-link">Destination</Link>
                             <Link to="/home" className="nav-link">Blog</Link>
                             <Link to="/home" className="nav-link">Contact</Link>
                             
