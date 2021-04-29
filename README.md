@@ -1,7 +1,7 @@
 # Fair Fares 
 ## React Router Assignment With Firebase Authentication
 
-[Github repo](https://github.com/Porgramming-Hero-web-course/react-auth-ShahbajKhan).
+[Github repo](https://github.com/ShahbajKhan/fair-fares).
 
 [Live link](https://quizzical-poincare-2ddd78.netlify.app/)
 
